@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,department,email,hire_date,salary,years_experience,remote
+1001,Aisha,Patel,Engineering,aisha.patel@techco.com,2020-03-15,125000,8,True
+1002,Carlos,Rodriguez,Sales,carlos.rodriguez@techco.com,2019-11-22,95000,10,False
+1003,Li,Wei,Marketing,li.wei@techco.com,2022-01-10,78000,4,True
+1004,Sofia,Andersson,HR,sofia.andersson@techco.com,2018-07-01,72000,12,False
+1005,Raj,Kumar,Engineering,raj.kumar@techco.com,2021-06-30,138000,7,True
+1006,Emma,Wilson,Finance,emma.wilson@techco.com,2020-09-18,89000,6,False
+1007,Mohammed,Al-Sayed,Engineering,mohammed.alsayed@techco.com,2023-02-27,112000,3,True
+1008,Isabella,Moretti,Product,isabella.moretti@techco.com,2017-04-12,105000,15,False
+1009,David,Chen,Data Science,david.chen@techco.com,2021-11-05,142000,9,True
+1010,Grace,Thompson,Sales,grace.thompson@techco.com,2022-08-20,88000,5,True
